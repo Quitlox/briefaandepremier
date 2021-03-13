@@ -1,0 +1,12 @@
+@use '../../styles/base.scss' as base;
+
+.body {
+    min-height: 100vh;
+//    background-color: base.$color-background; 
+}
+
+.container {
+    min-height: 100vh;
+    background-color: base.$color-container;
+}
+
